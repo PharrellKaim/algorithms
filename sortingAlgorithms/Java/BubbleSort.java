@@ -1,6 +1,6 @@
 package sortingAlgorithms.Java;
 public class BubbleSort {
-    static void bubbleSort(int[] array){
+    private static void bubbleSort(int[] array){
         int length = array.length;
         int temp = 0;
 

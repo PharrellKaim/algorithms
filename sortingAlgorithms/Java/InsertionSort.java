@@ -1,4 +1,5 @@
-public class InsertionSortJava {
+package sortingAlgorithms.Java;
+public class InsertionSort {
     private static void insertionSort(int[] array){
         int length = array.length;
         for (int i = 1; i < length; i++) {
